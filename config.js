@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.gmail.com/',
 		},
 		{
 			id: '3',
 			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			icon: 'money',
+			link: 'https://qbo.intuit.com',
 		},
 		{
 			id: '4',
